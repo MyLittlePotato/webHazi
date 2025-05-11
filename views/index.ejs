@@ -1,0 +1,20 @@
+<%- include('partials/header') %>
+<%- include('partials/menu') %>
+
+<main>
+    <h1>Üdvözöljük a blogunkon!</h1>
+    
+    <section class="blog-posts">
+        <% articles.forEach(article => { %>
+            <article class="post">
+                <h2><a href="/blog/<%= article.id %>"><%= article.title %></a></h2>
+                <p class="date"><%= article.date %></p>
+                <p><%= article.content[0] %></p>
+                <button class="read-more" onclick="location.href='/blog/<%= article.id %>'">Tovább olvasom</button>
+                <button class="add-to-favorites" data-id="<%= article.id %>">Kedvencekhez adás</button>
+            </article>
+        <% }); %>
+    </section>
+</main>
+
+<%- include('partials/footer') %>

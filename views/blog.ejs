@@ -1,0 +1,16 @@
+<%- include('partials/header') %>
+<%- include('partials/menu') %>
+
+<main>
+    <article class="full-post">
+        <h1><%= article.title %></h1>
+        <p class="date"><%= article.date %></p>
+        <% article.content.forEach(paragraph => { %>
+            <p><%= paragraph %></p>
+        <% }); %>
+        <button class="add-to-favorites" data-id="<%= article.id %>">Kedvencekhez adás</button>
+        <a href="/" class="back-to-home">Vissza a főoldalra</a>
+    </article>
+</main>
+
+<%- include('partials/footer') %>

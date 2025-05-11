@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "title": "Blog Bejegyzés 1",
+      "date": "2024-02-25",
+      "content": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Blog Bejegyzés 2",
+      "date": "2024-03-10",
+      "content": [
+        "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...",
+        "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...",
+        "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum..."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Blog Bejegyzés 3",
+      "date": "2024-03-15",
+      "content": [
+        "Excepteur sint occaecat cupidatat non proident...",
+        "Sunt in culpa qui officia deserunt mollit anim id est laborum...",
+        "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit..."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Blog Bejegyzés 4",
+      "date": "2024-03-20",
+      "content": [
+        "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse...",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus...",
+        "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus..."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Blog Bejegyzés 5",
+      "date": "2024-03-25",
+      "content": [
+        "Itaque earum rerum hic tenetur a sapiente delectus...",
+        "Ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis...",
+        "Et harum quidem rerum facilis est et expedita distinctio..."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Blog Bejegyzés 6",
+      "date": "2024-04-05",
+      "content": [
+        "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil...",
+        "Omnis voluptas assumenda est, omnis dolor repellendus...",
+        "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus..."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Blog Bejegyzés 7",
+      "date": "2024-04-20",
+      "content": [
+        "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet...",
+        "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet...",
+        "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet..."
+      ]
+    }
+  ]
